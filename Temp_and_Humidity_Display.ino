@@ -40,5 +40,6 @@ void loop() {
   lcd.print(" ");
   lcd.print((char)37);
 
+  // Delay 5 seconds between reads
   delay(5000);
 } 
